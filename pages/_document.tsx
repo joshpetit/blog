@@ -49,7 +49,7 @@ class MyDocument extends Document {
           />
 
         </Head>
-        <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
+        <body className="antialiased text-black bg-white dark:bg-petit-500 dark:text-white">
           <Main />
           <NextScript />
         </body>
