@@ -30,8 +30,12 @@ module.exports = {
         petit: {
           500: '#4f4f4f',
         },
+        gray: {
+
         //@ts-ignore
-        gray: colors.neutral, // TODO: Remove ts-ignore after tw types gets updated to v3
+          ...colors.neutral,
+          400: '#e0e0e0',
+        }, // TODO: Remove ts-ignore after tw types gets updated to v3
       },
       typography: (theme) => ({
         DEFAULT: {
