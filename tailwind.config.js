@@ -30,17 +30,13 @@ module.exports = {
         petit: {
           500: '#4f4f4f',
         },
-        gray: {
-
         //@ts-ignore
-          ...colors.neutral,
-          400: '#e0e0e0',
-        }, // TODO: Remove ts-ignore after tw types gets updated to v3
+        gray: colors.neutral, // TODO: Remove ts-ignore after tw types gets updated to v3
       },
       typography: (theme) => ({
         DEFAULT: {
           css: {
-            color: theme('colors.white'),
+            color: theme('colors.gray.700'),
             a: {
               color: theme('colors.primary.500'),
               '&:hover': {
