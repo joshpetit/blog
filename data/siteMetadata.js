@@ -1,21 +1,21 @@
 const siteMetadata = {
   title: 'The Petit Blog',
   author: 'Joshua Petitma',
-  headerTitle: 'Petit Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Blog',
+  description: 'A blog where I talk about things.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://blog.petit.dev',
+  siteRepo: 'https://github.com/joshpetit/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'joshua@petit.dev',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  github: 'https://github.com/joshpetit',
+  twitter: 'https://twitter.com/josh_petitma',
+  facebook: '',
+  youtube: '',
+  linkedin: 'https://www.linkedin.com/in/joshua-petitma',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
@@ -31,7 +31,7 @@ const siteMetadata = {
   comment: {
     // Select a provider and use the environment variables associated to it
     // https://vercel.com/docs/environment-variables
-    provider: 'giscus', // supported providers: giscus, utterances, disqus
+    provider: '', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
