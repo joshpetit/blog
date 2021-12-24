@@ -15,6 +15,13 @@ const projectsData = [
   //   imgSrc: '/static/images/time-machine.jpg',
   //   href: '/blog/the-time-machine',
   // },
+  {
+    title: 'Church Online Platform',
+    description: `While interning at Life.Church, I had the opportunity to work on the church online platform which has been used by millions of people. I implemented the ability to like messageson the platform as well as dozens of bug fixes.`,
+    imgSrc: '/static/images/chop.png',
+    href: 'https://churchonlineplatform.com/',
+  },
+
 ]
 
 export default projectsData

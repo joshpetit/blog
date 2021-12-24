@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Blog',
   description: 'A blog where I talk about things.',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://blog.petit.dev',
   siteRepo: 'https://github.com/joshpetit/blog',
   siteLogo: '/static/images/logo.png',
