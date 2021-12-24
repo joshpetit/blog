@@ -47,7 +47,6 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap"
             rel="stylesheet"
           />
-
         </Head>
         <body className="antialiased text-black bg-white dark:bg-petit-500 dark:text-white">
           <Main />
