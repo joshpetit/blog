@@ -3,6 +3,7 @@ import Github from './github.svg'
 import Facebook from './facebook.svg'
 import Youtube from './youtube.svg'
 import Linkedin from './linkedin.svg'
+import Instagram from './instagram.svg'
 import Twitter from './twitter.svg'
 
 // Icons taken from: https://simpleicons.org/
@@ -12,6 +13,7 @@ const components = {
   github: Github,
   facebook: Facebook,
   youtube: Youtube,
+  instagram: Instagram,
   linkedin: Linkedin,
   twitter: Twitter,
 }
