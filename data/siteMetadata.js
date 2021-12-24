@@ -12,10 +12,11 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'joshua@petit.dev',
   github: 'https://github.com/joshpetit',
+  instagram: 'https://www.instagram.com/josh.petitma/',
   twitter: 'https://twitter.com/josh_petitma',
   facebook: '',
-  youtube: '',
-  linkedin: 'https://www.linkedin.com/in/joshua-petitma',
+  youtube: 'https://www.youtube.com/channel/UClo6j1DhtvHIKBPcsmCgWlg',
+  // linkedin: 'https://www.linkedin.com/in/joshua-petitma',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics

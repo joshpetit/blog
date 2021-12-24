@@ -8,5 +8,6 @@ export type AuthorFrontMatter = {
   twitter: string
   instagram: string
   linkedin: string
+  youtube: string
   github: string
 }
